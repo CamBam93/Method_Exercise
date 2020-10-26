@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_Exer", "Method_Exer\Method_Exer.csproj", "{C945FFD6-1B88-48FE-BE78-358602D8B14E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C945FFD6-1B88-48FE-BE78-358602D8B14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C945FFD6-1B88-48FE-BE78-358602D8B14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C945FFD6-1B88-48FE-BE78-358602D8B14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C945FFD6-1B88-48FE-BE78-358602D8B14E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEB545CD-9886-4B19-A270-1B4601D41F13}
+	EndGlobalSection
+EndGlobal
